@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-resumable-media/#history
 
+## [2.2.0](https://www.github.com/googleapis/google-resumable-media-python/compare/v2.1.0...v2.2.0) (2021-11-18)
+
+
+### Features
+
+* add 'py.typed' declaration file ([#287](https://www.github.com/googleapis/google-resumable-media-python/issues/287)) ([cee4164](https://www.github.com/googleapis/google-resumable-media-python/commit/cee416449701b72e7fd532585a1f739b02b6ab32))
+
 ## [2.1.0](https://www.github.com/googleapis/google-resumable-media-python/compare/v2.0.3...v2.1.0) (2021-10-20)
 
 
